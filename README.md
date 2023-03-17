@@ -1,7 +1,6 @@
 # AWS_ML_Projects
-* collection of project computed on AWS:
 
-## Data Science on Cloud with AWS - EasyVisa Case Study
+## 1. Data Science on Cloud with AWS - EasyVisa Case Study
 
 The OFLC processed millions of applications for different positions for labor certifications and due to percentage increase in the number of applications the reviewing process of every case is becoming a tedious task. EasyVisa has been hired by OFLC to provide data-driven solutions. As a data scientist at EasyVisa, you must analyze the data provided and, with the help of AWS SageMaker, build a classification model to make the visa approval process easier.
 
